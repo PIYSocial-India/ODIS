@@ -1,0 +1,3 @@
+0 Obstacles
+1 Without Obstacles
+2 Unclassified
