@@ -1,3 +1,5 @@
+<img src="./_img/header.png" width=950>
+
 # ODIS
 ODIS (Obstacle Detection Inside the Sea) 
 
@@ -39,3 +41,12 @@ Using the help of this technology, we can detect the underwater obstacles. The s
 Image processing with Deep learning has great scope in detecting the objects accurately. It can also detect what type of object is it then it can respond accordingly. 
 
 We’ll be using the Keras Model for the prediction and the images are trained using the Google’s Teachable Machine. It’ll basically detect the object under the water and give a result whether there are obstacles or not.
+
+
+
+-----
+### Contributors:
+Saswat Samal | Sanket Sanjeeb Pattanaik
+------------ | -------------
+Software | Hardware
+[ Saswat's Website](http://saswatsamal.me/) | [Sanket's Github](https://github.com/Sanket-Pattanaik)
