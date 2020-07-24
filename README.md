@@ -35,18 +35,16 @@ Using the help of this technology, we can detect the underwater obstacles. The s
 <img src="./_img/1.png" width=450>
 
 
+### Image Processing
+Image processing with Deep learning has great scope in detecting the objects accurately. It can also detect what type of object is it then it can respond accordingly. 
+
+We’ll be using the Keras Model for the prediction and the images are trained using the Google’s Teachable Machine. It’ll basically detect the object under the water and give a result whether there are obstacles or not.
 
 #### WorkFlow
 
 <img src="./_img/3.png" width=450>
 
 <img src="./_img/5.png" width=450>
-
-### Image Processing
-Image processing with Deep learning has great scope in detecting the objects accurately. It can also detect what type of object is it then it can respond accordingly. 
-
-We’ll be using the Keras Model for the prediction and the images are trained using the Google’s Teachable Machine. It’ll basically detect the object under the water and give a result whether there are obstacles or not.
-
 
 
 -----
