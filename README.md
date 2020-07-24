@@ -27,15 +27,20 @@ Our system is based on two major factors for now:
 
 ### Radar Sensing
 The radar sensing will be based on simple ultrasonic technology. The ultrasonic waves can travel inside the water. It works in the following principle:
-<img alt="">
+
+<img src="./_img/4.png" width=450>
 
 Using the help of this technology, we can detect the underwater obstacles. The sensors will be fitted around the four corners of the ship/boat for better accuracy.
-<img alt="">
 
-<img alt="Block Diagram">
+<img src="./_img/1.png" width=450>
 
-##### WorkFlow
-<img alt="">
+
+
+#### WorkFlow
+
+<img src="./_img/3.png" width=450>
+
+<img src="./_img/5.png" width=450>
 
 ### Image Processing
 Image processing with Deep learning has great scope in detecting the objects accurately. It can also detect what type of object is it then it can respond accordingly. 
